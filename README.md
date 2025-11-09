@@ -23,12 +23,12 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=Amazon S3&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=amazons3&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=plastic&logo=React&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=plastic&logo=React Query&logoColor=white">
+<img src="https://img.shields.io/badge/React Query-FF4154?style=plastic&logo=reactquery&logoColor=white">
 </div>
 </div>
     <div style="text-align: left;">
