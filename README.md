@@ -16,27 +16,27 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white&cache_bust=2">
 <br>
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
-  
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white&cache_bust=2">
 <br>
-<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=plastic&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=amazons3&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=amazonaws&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white&cache_bust=2">
+<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=plastic&logo=react&logoColor=white&cache_bust=2">
 <br>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=plastic&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/React Query-FF4154?style=plastic&logo=reactquery&logoColor=white&cache_bust=2">
 </div>
+
 </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
