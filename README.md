@@ -1,6 +1,12 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=백엔드%20개발자%20Roto90입니다.&animation=fadeIn&fontColor=000000&fontSize=40" />
-    </div>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=백엔드%20개발자%20Roto90입니다.&animation=fadeIn&fontColor=FFFFFF&fontSize=40">
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=백엔드%20개발자%20Roto90입니다.&animation=fadeIn&fontColor=000000&fontSize=40">
+  </picture>
+</div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙆‍♂️ About me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 기술로 실제 문제를 해결하고 가치를 만들어내는 백엔드 개발자 Roto90입니다. <br>사용자가 신뢰할 수 있는 서비스를 구축하기 위해 Java와 Spring 생태계를 탐구하고 있습니다. </div> 
